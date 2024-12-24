@@ -1,0 +1,10 @@
+@font-face{
+    font-family: "Chronicle";
+    src: url('../fonts/Chronicle-Display-Semibold.otf');
+    font-display: swap;
+}
+@font-face{
+    font-family: "Gilroy";
+    src: url('../fonts/Gilroy-Semibold.ttf');
+    font-display: swap;
+}
